@@ -3,9 +3,12 @@ body {
 }
 
 .dev-nhat {
-    color: red;
+    color: yellow;
 }
 
+.dev {
+    color: antiquewhite;
+}
 .dev-trung {
     color: black;
 }
